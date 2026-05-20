@@ -1,0 +1,1 @@
+D:\Program\ForceBindIP\ForceBindIP64.exe -i 10.42.2.161 D:\Program\thunderbird\thunderbird.exe
